@@ -14002,6 +14002,10 @@ td.chatroom {
   display: inline;
 }
 
+#chat_function_list .btn + .btn {
+  margin-left: 0;
+}
+
 /* Modules/Course */
 .ilValignTop {
   vertical-align: top;
@@ -15829,6 +15833,10 @@ div.ilc_Page.readonly textarea[disabled] {
 
 #tst_pass_details_overview tr {
   scroll-margin-top: 30px;
+}
+
+.ilc_qanswer_Answer.ilc_answers.answers.ilAssClozeTest p input[type=text] {
+  width: 100%;
 }
 
 /* Modules/Wiki */
