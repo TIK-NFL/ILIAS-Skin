@@ -17586,10 +17586,6 @@ a.ilc_page_toc_PageTOCLink:hover {
   color: rgb(22.5658263305%, 29.9887955182%, 39.7871148459%);
 }
 
-a.ilc_page_toc_PageTOCLink:visited {
-  color: #82639e;
-}
-
 /* --- content styles (will move to content.css) --- */
 td.ilc_PageDisabled {
   padding: 20px;
@@ -21996,4 +21992,4 @@ div.Access {
   color: rgb(43.6274509804%, 43.6274509804%, 43.6274509804%);
 }
 
-/*# sourceMappingURL=ustutt.css.map */
+/*# sourceMappingURL=delos.css.map */
